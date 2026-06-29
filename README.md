@@ -1,4 +1,4 @@
-# Hi, I'm Gurusai 👋
+# Hi, I'm Guru 👋
 
 ### Data Scientist → Quantitative Asset Management
 
