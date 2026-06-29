@@ -10,7 +10,7 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 
 ## 🔬 Featured Projects
 
-### 📈 [Icarus — Quantitative Portfolio Research Pipeline](https://github.com/GurusaiBiradar/icarus)
+### 📈 [Icarus — Quantitative Portfolio Research Pipeline](https://github.com/GurusaiBiradar/Icarus-Quant-Portfolio-Research-Pipeline)
 > End-to-end equity factor research: signals → risk model → optimizer → walk-forward backtest
 
 - **Alpha signals:** Momentum + Reversal (12-1 month, 1-month returns)
