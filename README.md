@@ -22,7 +22,7 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 
 ---
 
-### 🧠 [KAN — Decoding Functional Forms of Stock Return Predictors](https://github.com/GurusaiBiradar)
+### 🧠 [KAN — Decoding Functional Forms of Stock Return Predictors]
 > Applying Kolmogorov-Arnold Networks to global asset pricing data (LSEG)
 
 - Benchmarking KAN interpretability and predictive accuracy against MLPs and linear regressions
@@ -58,15 +58,6 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurusaiBiradar&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurusaiBiradar&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 ---
 
