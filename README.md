@@ -33,6 +33,17 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 `Python` `PyTorch` `HPC` `LSEG Data` `Asset Pricing`
 
 ---
+ 
+### 🏗️ [Osiris — DAX 15 Low Volatility Index Pipeline](https://github.com/GurusaiBiradar/Osiris-dax15-lowvol-index-pipeline)
+> Production-style index construction pipeline replicating real index provider methodology
+ 
+- **Index methodology:** selects the 15 lowest-volatility stocks from the DAX 40 universe via trailing 12-month realized volatility ranking, weighted by inverse-volatility
+- **Divisor continuity:** index level maintained across monthly rebalances, constituent changes, and stock splits — no artificial jumps
+- **Buffer/banding rules:** entry at rank ≤ 12, exit at rank > 20 — mirrors real index provider turnover controls
+- **Pipeline:** PostgreSQL → dbt transformations → Apache Airflow orchestration → Streamlit dashboard with PDF reporting
+`Python` `PostgreSQL` `Docker` `Airflow` `dbt` `Streamlit` `pytest`
+
+---
 
 ### 📊 [Explainable AI for Finance](https://github.com/GurusaiBiradar) *(Academic Research — DFKI)*
 > Literature review on XAI techniques in finance: SHAP, LIME across credit scoring, risk management, and trading
