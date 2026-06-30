@@ -22,7 +22,7 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 
 ---
 
-### 🧠 [KAN — Decoding Functional Forms of Stock Return Predictors]
+### 🧠 KAN — Decoding Functional Forms of Stock Return Predictors
 > Applying Kolmogorov-Arnold Networks to global asset pricing data (LSEG)
 
 - Benchmarking KAN interpretability and predictive accuracy against MLPs and linear regressions
