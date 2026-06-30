@@ -45,11 +45,6 @@ Currently building: **[Decoding Stock Return Predictors with KANs](https://githu
 
 ---
 
-### 📊 [Explainable AI for Finance](https://github.com/GurusaiBiradar) *(Academic Research — DFKI)*
-> Literature review on XAI techniques in finance: SHAP, LIME across credit scoring, risk management, and trading
-
----
-
 ## 🛠️ Tech Stack
  
 **Programming**
